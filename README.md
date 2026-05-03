@@ -1,27 +1,108 @@
-# 💫 About Me:
-I am currently working in OpenSpace usa based startup remote<br> I am currently in mumbai university first year<br>worked previously in AI based startup in poland remote<br>👯 I’m looking to collaborate on ressearch in field of AI
+<div align="center">
 
+# shlok chorge
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shokk37839393) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shlok.chorge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SHLOK CHORGE) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChorgeShlo46340) 
+**co-founder · ai/ml engineer · undergrad**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shlokchorge&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shlokchorge&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shlokchorge&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Mumbai, India &nbsp;·&nbsp; BE Computer Science, Mumbai University (2029)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shlokchorge&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shlokchorge&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=shlokchorge&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### what i'm building
+
+**[OpenSpace](https://github.com/openspace-inc/OpenSpace)** — the world's first time investment platform. AI that walks beside you for years, not just tasks.
+
+Built the Android app end-to-end: goal-tracking system (Matrix 1.0), AI subsystems (Fount 1.0 · Flux 1.0 · Convo 1.0), real-time Convex backend, and multi-turn conversation engine with phase-based state machine.
+
+> *Full-time engineer · US-based startup (SF-founded, Poland co-founders) · fully remote from Mumbai*
+
+---
+
+### experience
+
+| role | org | type |
+|---|---|---|
+| Co-Founder & Engineer | [OpenSpace.ai](https://openspaceinc.framer.website) | full-time · remote (USA) |
+| BE Computer Science | Mumbai University | year 1 of 4 |
+
+---
+
+### stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+### things i've shipped
+
+- **Matrix 1.0** — goal-tracking data backbone connecting Fount, Flux, and Convo AI subsystems
+- **Convo 1.0** — multi-turn AI conversation engine with phase-based state machine (Convex backend)
+- **Placement Prediction ML** — soft-voting ensemble, MICE imputation, ~94.9% accuracy · Flask + Streamlit
+- **Qwen2-VL-7B fine-tune** — LaTeX OCR using Unsloth · Exact Match / CER / Token F1 eval framework
+- **Streaming recommender** — River ML FunkSVD, real-time collaborative filtering
+- **OpenGHG contrib** — Sphinx / Read the Docs documentation (issue #282)
+
+---
+
+### research
+
+- Working on a research paper in machine learning · 2025
+- 1 peer-reviewed publication (ML/AI · 2024)
+- Letter of Recommendation from **Geoffrey Hinton**
+- Targeting ETH Zürich MSc/PhD · AI/ML · ESOP scholarship
+- **Open to collaboration & mentorship in AI/ML research** — if you're working on something interesting, reach out
+
+---
+
+### stats
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=shlokchorge&color=58a6ff&style=flat&label=profile+views)
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shlokchorge&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="150" />
+
+</div>
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/58a6ff/shlokchorge" alt="contribution graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+[openspaceinc.framer.website](https://openspaceinc.framer.website) &nbsp;·&nbsp; [openspace-inc/OpenSpace](https://github.com/openspace-inc/OpenSpace)
+
+<br/>
+
+*if my work has been useful, you can buy me a coffee*
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/shlokchorge)
+
+</div>
