@@ -2,9 +2,9 @@
 
 # shlok chorge
 
-**co-founder · ai/ml engineer · undergrad**
+**Co-Founder · AI/ML Engineer · Undergrad**
 
-Mumbai, India &nbsp;·&nbsp; BE Computer Science, Mumbai University (2029)
+Mumbai, India &nbsp;·&nbsp; BE Information Technology, Mumbai University (2029)
 
 </div>
 
@@ -16,7 +16,7 @@ Mumbai, India &nbsp;·&nbsp; BE Computer Science, Mumbai University (2029)
 
 Built the Android app end-to-end: goal-tracking system (Matrix 1.0), AI subsystems (Fount 1.0 · Flux 1.0 · Convo 1.0), real-time Convex backend, and multi-turn conversation engine with phase-based state machine.
 
-> *Full-time engineer · US-based startup (SF-founded, Poland co-founders) · fully remote from Mumbai*
+> *Full-time engineer · US-based startup · fully remote from Mumbai*
 
 ---
 
@@ -25,7 +25,7 @@ Built the Android app end-to-end: goal-tracking system (Matrix 1.0), AI subsyste
 | role | org | type |
 |---|---|---|
 | Co-Founder & Engineer | [OpenSpace.ai](https://openspaceinc.framer.website) | full-time · remote (USA) |
-| BE Computer Science | Mumbai University | year 1 of 4 |
+| EX - ML Enginner      | [SForger](https://sfcollab.com/)| fulltime . remote (POLAND) |
 
 ---
 
@@ -33,20 +33,27 @@ Built the Android app end-to-end: goal-tracking system (Matrix 1.0), AI subsyste
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- row 1: logo only, no label, bigger icons -->
+<img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" height="52" />
+<img src="https://img.shields.io/badge/-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="52" />
+<img src="https://img.shields.io/badge/-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="52" />
+<img src="https://img.shields.io/badge/-D00000?style=flat-square&logo=keras&logoColor=white" height="52" />
+<img src="https://img.shields.io/badge/-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="52" />
+<img src="https://img.shields.io/badge/-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="52" />
+<img src="https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white" height="52" />
+<img src="https://img.shields.io/badge/-FF6C37?style=flat-square&logo=postman&logoColor=white" height="52" />
+
+<br/><br/>
+
+<!-- row 2: name + logo -->
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
 
 </div>
 
@@ -59,16 +66,12 @@ Built the Android app end-to-end: goal-tracking system (Matrix 1.0), AI subsyste
 - **Placement Prediction ML** — soft-voting ensemble, MICE imputation, ~94.9% accuracy · Flask + Streamlit
 - **Qwen2-VL-7B fine-tune** — LaTeX OCR using Unsloth · Exact Match / CER / Token F1 eval framework
 - **Streaming recommender** — River ML FunkSVD, real-time collaborative filtering
-- **OpenGHG contrib** — Sphinx / Read the Docs documentation (issue #282)
 
 ---
 
 ### research
 
-- Working on a research paper in machine learning · 2025
-- 1 peer-reviewed publication (ML/AI · 2024)
-- Letter of Recommendation from **Geoffrey Hinton**
-- Targeting ETH Zürich MSc/PhD · AI/ML · ESOP scholarship
+- Working on a research paper in machine learning · 2026
 - **Open to collaboration & mentorship in AI/ML research** — if you're working on something interesting, reach out
 
 ---
@@ -84,12 +87,6 @@ Built the Android app end-to-end: goal-tracking system (Matrix 1.0), AI subsyste
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=shlokchorge&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="150" />
-
-</div>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58a6ff/shlokchorge" alt="contribution graph" />
 
 </div>
 
