@@ -71,13 +71,13 @@ Built the Android app end-to-end: goal-tracking system (Matrix 1.0), AI subsyste
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=shlokchorge&color=58a6ff&style=flat&label=profile+views)
+<img src="https://komarev.com/ghpvc/?username=shlokchorge&color=58a6ff&style=flat&label=profile+views" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shlokchorge&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="150" />
+<img src="https://streak-stats.demolab.com?user=shlokchorge&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&cache_seconds=1800" height="150" />
 
 </div>
 
