@@ -59,15 +59,6 @@ Built the Android app end-to-end: goal-tracking system (Matrix 1.0), AI subsyste
 
 ---
 
-### things i've shipped
-
-- **Matrix 1.0** — goal-tracking data backbone connecting Fount, Flux, and Convo AI subsystems
-- **Convo 1.0** — multi-turn AI conversation engine with phase-based state machine (Convex backend)
-- **Placement Prediction ML** — soft-voting ensemble, MICE imputation, ~94.9% accuracy · Flask + Streamlit
-- **Qwen2-VL-7B fine-tune** — LaTeX OCR using Unsloth · Exact Match / CER / Token F1 eval framework
-- **Streaming recommender** — River ML FunkSVD, real-time collaborative filtering
-
----
 
 ### research
 
