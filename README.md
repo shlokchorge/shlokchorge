@@ -10,11 +10,6 @@ Mumbai, India &nbsp;·&nbsp; BE Information Technology, Mumbai University (2029)
 
 ---
 
-### what i'm building
-
-**[OpenSpace](https://github.com/openspace-inc/OpenSpace)** — the world's first time investment platform. AI that walks beside you for years, not just tasks.
-
-Built the Android app end-to-end: goal-tracking system (Matrix 1.0), AI subsystems (Fount 1.0 · Flux 1.0 · Convo 1.0), real-time Convex backend, and multi-turn conversation engine with phase-based state machine.
 
 > *Full-time engineer · US-based startup · fully remote from Mumbai*
 
