@@ -1,6 +1,6 @@
 <div align="center">
 
-# shlok chorge
+#  shlok chorge
 
 **Co-Founder · AI/ML Engineer · Undergrad**
 
