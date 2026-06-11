@@ -79,8 +79,4 @@ Mumbai, India &nbsp;·&nbsp; BE Information Technology, Mumbai University (2029)
 
 <br/>
 
-*if my work has been useful, you can buy me a coffee*
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/shlokchorge)
-
 </div>
